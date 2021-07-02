@@ -1,0 +1,88 @@
+{
+    "nodes": [
+      {
+        "name": "Income"
+      },
+      {
+        "name": "Bills"
+      },
+      {
+        "name": "Pension"
+      },
+      {
+        "name": "Rent"
+      },
+      {
+        "name": "Loan"
+      },
+      {
+        "name": "Grocery"
+      },
+      {
+        "name": "Savings"
+      },
+      {
+        "name": "Electricity"
+      },
+      {
+        "name": "Mobile"
+      },
+      {
+        "name": "Travel"
+      }
+      
+    ],
+    "links": [
+     
+      {
+        "source": 0,
+        "target": 1,
+        "value": 70000
+      },
+      {
+        "source": 2,
+        "target": 8,
+        "value": 8000
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "value": 50000
+      },
+      {
+        "source": 1,
+        "target": 7,
+        "value": 44000
+      },
+      {
+        "source": 0,
+        "target": 6,
+        "value": 6500
+      },
+      {
+        "source": 4,
+        "target": 3,
+        "value": 7500
+      },
+      {
+        "source": 1,
+        "target": 5,
+        "value": 4060
+      },
+      {
+        "source": 2,
+        "target": 8,
+        "value": 3400
+      },
+      {
+        "source": 1,
+        "target": 9,
+        "value": 19000
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "value": 25000
+      }
+    ]
+  }
